@@ -11,3 +11,5 @@ git add . //selecionar archivos tanto en (.) para todos los archivos o seleciona
 git commit -m "primer commint" // crear una commit
 got log //mirar que parte estoy trabando y cuantas  commint tengo
 git config credential.username "nuevo usuario" // es por si le da error en push
+git remote add origin https://github.com/GoldyLaranda/Codigo-de-Git-Actualizado-2024.git  (conectar gitgub
+git push -u origin main ) // sube a la nube
